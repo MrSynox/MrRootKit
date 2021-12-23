@@ -1,2 +1,3 @@
 # MrRootKit
-Root erişimini korumak için basit linux rootkit
+Mr RootKit is simple linux rootkit to keep gaining root access.
+
